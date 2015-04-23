@@ -55,6 +55,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 - Editor-In-Chief of the YCC Newsletter
 - all-school emails
 - leads post-mortems on executed projects
+
 ###Deputy Communications Director
 - project executive for Board projects, Business Team projects and projects which span multiple accounts
 - assists Comm.D in strategy, message, staff
