@@ -60,6 +60,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 - assists Comm.D in strategy, message, staff
 - all-school emails in the Comm.D's stead
 - Managing Editor of the YCC Newsletter with Senior Copywriter
+
 ###Account Executive
 - plans communications for account
 	- meets with "client" (Policy Director or Events Director) to determine needs 
@@ -73,6 +74,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- posts email text to blog (email archive)
 	- keeps information about Client's projects up to date on website
 	- closes projects for posterity
+
 ###Art Director
 - directs and produces high-quality, engaging, and clever visual communications
 	- social media images, website graphics, posters, etc.
@@ -153,6 +155,7 @@ These are the channels teams should consider when publicizing their projects and
 	-	gallery show / art installation
 	-	publicity stunt
 	-	radio / talk show / YTV appearance
+
 ##Platforms
 ###Internal
 
@@ -167,6 +170,7 @@ These are the channels teams should consider when publicizing their projects and
 	- Playbook (this)
 	- email templates
 	- dev projects (?)
+
 ###External
 - ycc.yale.edu website (permissions internal, contact Comm.D)
 - ycc@yale.edu email (net id proxy - contact ITS)
