@@ -34,6 +34,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- Art Director
 	- Copywriter
 	- Photographer
+
 ###Production and Design Team (At-Large)
 - Webmaster
 - Graphic Designers
@@ -87,7 +88,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- writes copy for ads, videos, social media posts, and emails
 	- formats and posts longer form writing to the blog
 	- writes weekly/monthly updates on Account for website/newsletter(?)
-	- writes for other contexts where effective e.g.YDN op-eds
+	- writes for other contexts where effective e.g. YDN op-eds
 - **Senior Copywriter** serves as Copywriter for the Board Account, sets standards, trains new CWs, helps maintain quality of copywriting across all accounts, and is Managing Editor of the YCC Newsletter with the Deputy Comm.D
 
 ###Photographer
@@ -178,5 +179,5 @@ These are the channels teams should consider when publicizing their projects and
 ##Contacts
 - Andrew Grass (Comm.D 2013-2014): andrew.grass@yale.edu
 - Isaac Morrier (Comm.D 2014-2015): isaacmorrier@gmail.com
-- Maya Sweedler (Comm.D 2015-2016): 
+- Maya Sweedler (Comm.D 2015-2016): maya.sweedler@gmail.com
 - Gloria Hoda (OPAC Email Czar, contact for all-school email permissions): gloria.hoda@yale.edu
