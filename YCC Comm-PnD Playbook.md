@@ -14,6 +14,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- Senior Art Director
 	- Senior Copywriter
 	- Senior Photographer
+	- Webmaster
 2. Academics
 	- Account Executive
 	- Art Director
@@ -36,7 +37,6 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- Photographer
 
 ###Production and Design Team (At-Large)
-- Webmaster
 - Graphic Designers
 - Photographers
 - Developers
