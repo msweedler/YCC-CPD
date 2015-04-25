@@ -183,7 +183,7 @@ These are the channels teams should consider when publicizing their projects and
 - YaleSpeaks Tumblr (?) (username and password - contact Danielle Liu: danielle.liu@yale.edu)
 
 ##Contacts
-- Andrew Grass (Comm.D 2013-2014): andrew.grass@yale.edu
+- Andrew Grass (Comm.D 2013-2014): akgrass@gmail.com
 - Isaac Morrier (Comm.D 2014-2015): isaacmorrier@gmail.com
 - Maya Sweedler (Comm.D 2015-2016): maya.sweedler@gmail.com
 - Gloria Hoda (OPAC Email Czar, contact for all-school email permissions): gloria.hoda@yale.edu
