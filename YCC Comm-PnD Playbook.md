@@ -2,7 +2,7 @@
 
 For internal use only.
 
-*Last updated 4/23/2015 Isaac Morrier and Maya Sweedler*
+*Last updated 4/28/2015 Isaac Morrier and Maya Sweedler*
 
 ##Structure
 
@@ -14,22 +14,17 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- Senior Art Director
 	- Senior Copywriter
 	- Senior Photographer
-2. Academics
+2. Policy Directors 
 	- Account Executive
 	- Art Director
 	- Copywriter
 	- Photographer
-3. University Services
+3. Task Forces
 	- Account Executive
 	- Art Director
 	- Copywriter
 	- Photographer
-4. Student Life
-	- Account Executive
-	- Art Director
-	- Copywriter
-	- Photographer
-5. Events
+4. Events
 	- Account Executive
 	- Art Director
 	- Copywriter
