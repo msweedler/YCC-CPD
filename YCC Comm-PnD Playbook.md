@@ -19,7 +19,7 @@ The Yale College Council Communications Team is divided into 5 smaller Account T
 	- Art Director
 	- Copywriter
 	- Photographer
-3. Task Forces
+3. Task Forces/Class Councils
 	- Account Executive
 	- Art Director
 	- Copywriter
